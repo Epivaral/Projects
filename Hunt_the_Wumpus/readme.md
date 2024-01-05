@@ -1,20 +1,23 @@
  # HUNT THE WUMPUS - Eduardo Pivaral Leal
 
 ## Descripcion del proyecto 
-![image](https://github.com/Epivaral/Projects/assets/39424641/0791be1e-36d9-43d9-b0b8-0623e2b159cb)
 
-![image](https://github.com/Epivaral/Projects/assets/39424641/1250c77a-11f9-41c5-8333-3742f5bce8b8)
+
+
 
   
  * Tablero de 20X20, donde el jugador se puede mover arriba, derecha, abajo, izquierda, 
    excepto en los bordes donde solo hay 3 movimientos posibles,
    o en las esquinas donde solo hay 2 movimientos posibles
 
+   ![image](https://github.com/Epivaral/Projects/assets/39424641/1250c77a-11f9-41c5-8333-3742f5bce8b8)
+
  * El Agente puede ganar de 2 maneras:
-       - Encontrando el oro
-       - Matando al Wumpus
+   - Encontrando el oro
+   - Matando al Wumpus
  
  * Informacion de los items (todos se colocan en posiciones aleatorias):
+ * ![image](https://github.com/Epivaral/Projects/assets/39424641/0791be1e-36d9-43d9-b0b8-0623e2b159cb)
    
    - ORO (x1) : Al encontrarlo GANAS el juego. No hay notificacion de su ubicacion en ninguna habitacion contigua.
 
