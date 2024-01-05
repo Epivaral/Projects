@@ -1,6 +1,10 @@
  # HUNT THE WUMPUS - Eduardo Pivaral Leal
 
 ## Descripcion del proyecto 
+![image](https://github.com/Epivaral/Projects/assets/39424641/0791be1e-36d9-43d9-b0b8-0623e2b159cb)
+
+![image](https://github.com/Epivaral/Projects/assets/39424641/1250c77a-11f9-41c5-8333-3742f5bce8b8)
+
   
  * Tablero de 20X20, donde el jugador se puede mover arriba, derecha, abajo, izquierda, 
    excepto en los bordes donde solo hay 3 movimientos posibles,
